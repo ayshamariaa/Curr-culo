@@ -1,7 +1,7 @@
 const Pool = require('pg').Pool
 const pool = new Pool({
   user: 'postgres',
-  host: 'db.gxxqkhyppabcxuzsshxz.supabase.co',
+  host: 'db.epdjwuzawkvhpgmvujlq.supabase.co',
   database: 'postgres',
   password: 'F58LTsVGW4HCz3959Bzmhk0HDBoP00ld',
   port: 5432,
